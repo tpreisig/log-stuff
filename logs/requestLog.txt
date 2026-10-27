@@ -1,41 +1,12 @@
-26/07/13 18:22:31	a82e27bf-357e-4877-b6cd-fbd97ef0767b		GET		no headers.origin		/
-26/07/13 18:22:31	7d2da488-2ef7-4665-8648-f942ed1e8f81		GET		no headers.origin		/style.css
-26/07/13 18:22:32	3f3fce78-3870-4914-a73c-1e8fb552a8bf		GET		no headers.origin		/price
-26/07/13 18:22:32	db5d2b70-accf-444d-9bed-7f575a45ff35		GET		no headers.origin		/style.css
-26/07/13 18:22:32	348cb297-ff57-40f3-b1f3-2affc3486721		GET		no headers.origin		/favicon.ico
-26/07/13 18:22:37	1b0fddbc-5808-4060-b145-a37fdc0628d1		GET		no headers.origin		/theme
-26/07/13 18:22:37	0abcc4bb-a129-45fe-aebc-f86ca3460477		GET		no headers.origin		/style.css
-26/07/13 18:25:53	3cc499ac-3ba6-45f7-96ff-ca9a2b205758		GET		no headers.origin		/theme
-26/07/13 18:25:53	80cfa2fd-3bf0-4496-8136-5fe719039e6d		GET		no headers.origin		/style.css
-26/07/13 18:25:56	64ee0f25-663c-4645-8d21-effb0ceb1c87		GET		no headers.origin		/price
-26/07/13 18:25:56	192167d4-d436-43fb-ae75-3e7f52cb76f5		GET		no headers.origin		/style.css
-26/07/13 18:26:33	5b136c4e-6299-4347-899b-d9a6f7269de9		GET		no headers.origin		/price
-26/07/13 18:26:33	0f6a8e96-9ea8-4f86-8184-0dcba8c564d5		GET		no headers.origin		/style.css
-26/07/13 18:26:37	eea19938-671b-4dfe-b108-75b4db4f4edb	POST	http://localhost:3248		/price
-26/07/13 18:26:37	8e633fe0-2adc-49a6-ae49-89e89be4e18e		GET		no headers.origin		/
-26/07/13 18:26:37	9349b26e-c6ab-40ed-9a5f-c095302398a9		GET		no headers.origin		/style.css
-26/07/13 18:31:36	d527b328-4581-4864-9c40-67d31348863d		GET		no headers.origin		/
-26/07/13 18:31:36	d82a577a-a8cd-4a26-ae2f-a2b180d9d843		GET		no headers.origin		/style.css
-26/07/13 18:32:12	20260712-c359-46b3-a8e7-5ad916a0c228		GET		no headers.origin		/
-26/07/13 18:32:28	ba7c0ce4-065d-47a4-a64a-e56d30cb7005		GET		no headers.origin		/price
-26/07/13 18:33:08	2b5b4d21-7da1-4592-a60e-8b2afb7f75c5		GET		no headers.origin		/theme
-26/07/13 18:33:24	6f6456f2-572c-4c77-ad13-8446ca487d8b	POST	http://localhost:3248		/theme
-26/07/13 18:33:24	97500632-264f-4dd3-884d-534bda03f868		GET		no headers.origin		/
-26/07/13 18:33:25	60c9b174-0a74-4df8-a6c6-2876c5a9ea2c		GET		no headers.origin		/price
-26/07/13 18:33:29	1fe42f50-3673-47bc-8fce-bc6e5f172b81	POST	http://localhost:3248		/price
-26/07/13 18:33:29	25a896a0-be7d-47bf-a436-9a04287077db		GET		no headers.origin		/
-26/07/22 21:12:23	846c4bf7-89be-4e80-9761-c4e95dd9d13b		GET		no headers.origin		/
-26/07/22 21:12:23	20cb8270-41fb-4b89-a770-353580f188a4		GET		no headers.origin		/favicon.ico
-26/07/22 21:12:29	e82d3584-e63d-4e04-91f8-7473b1772b5c		GET		no headers.origin		/price
-26/07/22 21:12:34	aaafc855-50eb-4350-b4bd-e333576242d0	POST	http://localhost:3248		/price
-26/07/22 21:12:34	4a261e0c-d1ed-4f88-9488-ae38902172fe		GET		no headers.origin		/
-26/07/22 21:12:36	58943d63-d44f-4a07-b0cb-e457394a9ae1		GET		no headers.origin		/theme
-26/07/22 21:12:49	a4871d7d-aa64-49c7-ba68-8e86c60e68c4	POST	http://localhost:3248		/theme
-26/07/22 21:12:49	5e25fc9f-f2db-4b7e-bab2-8c79d984001b		GET		no headers.origin		/
-26/07/22 21:14:43	934a7ed2-5b7b-4d79-8f57-7d8db308d210		GET		no headers.origin		/price
-26/07/22 21:14:43	01485924-6749-4192-a507-e091f2fa8100		GET		no headers.origin		/favicon.ico
-26/07/22 21:14:53	ce2b7f0a-4b44-45a0-9579-94bc3e45a870		GET		no headers.origin		/theme
-26/07/22 21:18:45	27c8af3a-7f00-4d96-a01f-b291e6735dc4		GET		no headers.origin		/price
-26/07/22 21:18:53	02d50a48-bfb3-42d8-aacf-325360c03a05		GET		no headers.origin		/theme
-26/07/22 21:54:57	341df474-3ee9-4a9c-a57a-4f7909880010		GET		no headers.origin		/theme
-26/07/22 21:54:57	4657c59c-7f69-4fab-9d46-834678ad7e3d		GET		no headers.origin		/favicon.ico
+26/10/27 16:26:24	02cf7ba6-ea70-44c0-99bb-408f57a4499c	GET	-	/price
+26/10/27 16:26:27	c3a06ad8-1527-4b10-9cf1-b850d4bab766	POST	https://localhost:3248	/price
+26/10/27 16:26:27	afc18916-e71d-4bff-bdc1-dddd852c2e30	GET	-	/
+26/10/27 16:26:29	32622835-b85d-44c0-91af-5185ce86573c	GET	-	/theme
+26/10/27 16:26:32	cda805ea-5155-40c7-b344-8d55f4590b28	POST	https://localhost:3248	/theme
+26/10/27 16:26:32	52a900fd-1190-40cc-b24b-cf3f795441d8	GET	-	/
+26/10/27 16:27:31	af3f9cc3-3f68-4f3d-baa2-ae4774e8e268	GET	-	/price
+26/10/27 16:27:35	3a334711-7e0b-459c-b0e7-c0d55179ecd3	POST	https://localhost:3248	/price
+26/10/27 16:27:35	61d7dc10-ffed-4b22-a8ba-e38502cb4151	GET	-	/
+26/10/27 16:27:36	959ee99f-b975-48fb-9954-b510af63493a	GET	-	/theme
+26/10/27 16:27:42	357dce43-53ff-40c3-b0cf-1427bb6de1b0	POST	https://localhost:3248	/theme
+26/10/27 16:27:42	e7aac924-3b9e-4a68-8041-0d6ad523d484	GET	-	/

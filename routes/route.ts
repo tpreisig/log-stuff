@@ -1,10 +1,10 @@
-import express from 'express';
-const router = express.Router();
+import express, { Router, Request, Response } from 'express';
 import { fileURLToPath } from 'url';
 import { join, dirname } from 'path';
 import { logger, dataLog } from '../middleware/logEvents.js';
 import { EventEmitter } from 'events';
 
+const router: Router = express.Router();
 const __dirname = dirname(fileURLToPath(import.meta.url));
 
 router.use(logger);
@@ -14,18 +14,16 @@ const userInput = new UserInput();
 
 userInput.on('submit', (message) => dataLog(message, 'inputData.txt'));
 
-
-
 // GET routes
-router.get('/', (req, res) => {
+router.get('/', (_req: Request, res: Response) => {
     res.sendFile(join(__dirname, '..', 'views', 'index.html'));
 })
 
-router.get('/price', (req, res) => {
+router.get('/price', (_req: Request, res: Response) => {
     res.sendFile(join(__dirname, '..', 'views', 'price.html'));
 })
 
-router.get('/theme', (req, res) => {
+router.get('/theme', (_req: Request, res: Response) => {
     res.sendFile(join(__dirname, '..', 'views', 'theme.html'))
 })
 
@@ -41,3 +39,4 @@ router.post('/price', (req, res) => {
 })
 
 export default router;
+
