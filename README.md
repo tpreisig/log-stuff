@@ -23,7 +23,7 @@ A Express-based logger app that records incoming HTTP requests and user-submitte
 
 ## Installation
 
-Install all the dependences (date-fns, express) and devDependencies (nodemon, dotenv)
+Install all the dependences (date-fns, express) and devDependencies (, dotenv)
 
 ```bash
 npm install
@@ -39,15 +39,15 @@ The server will start on `http://localhost:3232` by default, or the port configu
 
 ## Project Structure
 
-- `server.js` — app entrypoint and Express configuration
-- `routes/route.js` — route handlers and event-based input logging
-- `middleware/logEvents.js` — request logger and file writer
+- `server.ts` — app entrypoint and Express configuration
+- `routes/route.ts` — route handlers and event-based input logging
+- `middleware/logEvents.ts` — request logger and file writer
 - `views/` — HTML views for the UI
 - `public/` — static assets such as CSS
 - `logs/` — generated request and input log files
 
 ## Notes
-
+- Keep in mind that logs are normally not committed and listed in .gitignore.
 - Logs are appended to `logs/requestLog.txt` and `logs/inputData.txt`.
 - If the `logs/` directory does not already exist, it is created automatically.
-- The `PORT_ASSIGNMENT` environment variable is loaded via `dotenv/config`.
+- Keep in mind that logs are normally not committed and listed in .gitignore.
