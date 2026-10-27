@@ -1,21 +1,22 @@
 {
   "name": "log stuff",
-  "version": "1.0.1",
-  "description": "A logger application",
+  "version": "2.0.1",
+  "description": "A logger application written in TypeScript",
   "type": "module",
   "scripts": {
     "start": "node server",
-    "dev": "nodemon server"
+    "dev": "tsx server",
+    "build": ""
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
   "dependencies": {
-    "date-fns": "^3.3.1",
+    "dotenv": "^18.0.9",
     "express": "^5.2.1"
   },
   "devDependencies": {
-    "dotenv": "^17.4.2",
-    "nodemon": "^3.0.3"
+    "@types/express": "^5.0.6",
+    "@types/node": "^26.6.5",
+    "date-fns": "^4.4.0",
+    "tsx": "^4.23.15",
+    "typescript": "^7.0.2"
   }
 }
